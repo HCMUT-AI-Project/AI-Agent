@@ -94,5 +94,5 @@ ai-agent/
 │   ├── MPK_Automated_Roadmap_Gen/     # Ví dụ mẫu
 │   └── [MemberName]_[Topic]/          # Folder của thành viên khác
 ├── src/                               # Mã nguồn chính của sản phẩm (Hackathon Product)
-├── resources/                         # Tài liệu tham khảo chung
+├── res/                               # Tài liệu tham khảo chung
 └── README.md                          # File thông tin này
