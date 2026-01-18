@@ -2,11 +2,10 @@
 
 **Đơn vị thực hiện:** Nhóm sinh viên Đại học Bách Khoa TP.HCM (HCMUT)  
 **Lĩnh vực:** Giáo dục (Education) - AI Agent  
-**Trạng thái:** Đang phát triển (Active Development)  
 
 ---
 
-## 1. Tài liệu Quy hoạch (Planning Documents)
+## 1. Tài liệu (Planning Documents)
 
 Các thành viên vui lòng truy cập và bám sát nội dung trong 02 tài liệu chính thức sau:
 
