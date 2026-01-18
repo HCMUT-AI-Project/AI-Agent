@@ -1,8 +1,8 @@
 # HCMUT AI AGENT PROJECT
 
-**Đơn vị thực hiện:** Nhóm sinh viên Đại học Bách Khoa TP.HCM (HCMUT)
-**Lĩnh vực:** Giáo dục (Education) - AI Agent
-**Trạng thái:** Đang phát triển (Active Development)
+**Đơn vị thực hiện:** Nhóm sinh viên Đại học Bách Khoa TP.HCM (HCMUT)  
+**Lĩnh vực:** Giáo dục (Education) - AI Agent  
+**Trạng thái:** Đang phát triển (Active Development)  
 
 ---
 
